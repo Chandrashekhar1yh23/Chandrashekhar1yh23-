@@ -25,4 +25,4 @@ I am a passionate developer currently building my portfolio and contributing to 
 </p>
 
 ## 📫 Let's Connect:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+https://www.linkedin.com/in/chandrashekhar-y-h-3b161b344?utm_source=share_via&utm_content=profile&utm_medium=member_android
