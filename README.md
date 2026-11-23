@@ -17,14 +17,21 @@ I am a passionate developer currently building my portfolio and contributing to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekhar1yh23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 ## 🛠️ Languages and Tools:
-<p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> 
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="
-  <!-- Add more badges for tools you use -->
- <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
+
 
 ## 📫 Let's Connect:
 https://www.linkedin.com/in/chandrashekhar-y-h-3b161b344?utm_source=share_via&utm_content=profile&utm_medium=member_android
