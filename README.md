@@ -26,7 +26,7 @@ I am a passionate developer currently building my portfolio and contributing to 
 
 </div>
 
-## 🛠️ Languages and Tools:
+
 
 ## 🛠️ Languages and Tools:
 <p align="left">
