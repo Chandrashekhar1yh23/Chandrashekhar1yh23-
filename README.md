@@ -11,11 +11,21 @@ I am a passionate developer currently building my portfolio and contributing to 
 ## 🏆 GitHub Stats
 
 <!-- This displays your overall stats like total commits, PRs, and issues -->
+
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekhar1yh23&show_icons=true&theme=radical&hide_border=true" alt="Chandrashekhar's GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekhar1yh23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandrashekhar1yh23&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
+       alt="Chandrashekhar's GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekhar1yh23&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" 
+       alt="Top Languages" />
+
 </div>
+
 ## 🛠️ Languages and Tools:
 
 ## 🛠️ Languages and Tools:
