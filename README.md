@@ -5,8 +5,11 @@ I am a passionate developer currently building my portfolio and contributing to 
 
 ## 📊 My GitHub Activity
 
-<!-- This creates a dynamic line graph of your contributions over time -->
-[![Chandrashekhar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandrashekhar1yh23&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📊 My GitHub Activity
+
+[![Chandrashekhar's GitHub Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Chandrashekhar1yh23&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 GitHub Stats
 
