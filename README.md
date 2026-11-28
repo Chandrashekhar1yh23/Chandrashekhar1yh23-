@@ -1,5 +1,5 @@
 
-# Hi there  I'm Chandrashekha
+# Hi there  I'm Chandrashekhar
 I am a passionate developer currently building my portfolio and contributing to open source
 
 
