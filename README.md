@@ -1,6 +1,5 @@
-# Chandrashekhar1yh23-
-# Hi there  I'm Chandrashekhar
 
+# Hi there  I'm Chandrashekha
 I am a passionate developer currently building my portfolio and contributing to open source
 
 
